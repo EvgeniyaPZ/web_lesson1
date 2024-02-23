@@ -1,0 +1,15 @@
+C:\Users\Jalini\Documents\Обучение\дз\lesson1_dotnet\Task1\bin\Debug\net6.0\Task1.exe
+C:\Users\Jalini\Documents\Обучение\дз\lesson1_dotnet\Task1\bin\Debug\net6.0\Task1.deps.json
+C:\Users\Jalini\Documents\Обучение\дз\lesson1_dotnet\Task1\bin\Debug\net6.0\Task1.runtimeconfig.json
+C:\Users\Jalini\Documents\Обучение\дз\lesson1_dotnet\Task1\bin\Debug\net6.0\Task1.dll
+C:\Users\Jalini\Documents\Обучение\дз\lesson1_dotnet\Task1\bin\Debug\net6.0\Task1.pdb
+C:\Users\Jalini\Documents\Обучение\дз\lesson1_dotnet\Task1\obj\Debug\net6.0\Task1.csproj.AssemblyReference.cache
+C:\Users\Jalini\Documents\Обучение\дз\lesson1_dotnet\Task1\obj\Debug\net6.0\Task1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Jalini\Documents\Обучение\дз\lesson1_dotnet\Task1\obj\Debug\net6.0\Task1.AssemblyInfoInputs.cache
+C:\Users\Jalini\Documents\Обучение\дз\lesson1_dotnet\Task1\obj\Debug\net6.0\Task1.AssemblyInfo.cs
+C:\Users\Jalini\Documents\Обучение\дз\lesson1_dotnet\Task1\obj\Debug\net6.0\Task1.csproj.CoreCompileInputs.cache
+C:\Users\Jalini\Documents\Обучение\дз\lesson1_dotnet\Task1\obj\Debug\net6.0\Task1.dll
+C:\Users\Jalini\Documents\Обучение\дз\lesson1_dotnet\Task1\obj\Debug\net6.0\refint\Task1.dll
+C:\Users\Jalini\Documents\Обучение\дз\lesson1_dotnet\Task1\obj\Debug\net6.0\Task1.pdb
+C:\Users\Jalini\Documents\Обучение\дз\lesson1_dotnet\Task1\obj\Debug\net6.0\Task1.genruntimeconfig.cache
+C:\Users\Jalini\Documents\Обучение\дз\lesson1_dotnet\Task1\obj\Debug\net6.0\ref\Task1.dll
