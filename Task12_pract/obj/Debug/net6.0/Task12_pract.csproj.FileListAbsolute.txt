@@ -1,0 +1,15 @@
+C:\Users\Jalini\Documents\Обучение\дз\lesson1_dotnet\Task12_pract\obj\Debug\net6.0\Task12_pract.csproj.AssemblyReference.cache
+C:\Users\Jalini\Documents\Обучение\дз\lesson1_dotnet\Task12_pract\obj\Debug\net6.0\Task12_pract.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Jalini\Documents\Обучение\дз\lesson1_dotnet\Task12_pract\obj\Debug\net6.0\Task12_pract.AssemblyInfoInputs.cache
+C:\Users\Jalini\Documents\Обучение\дз\lesson1_dotnet\Task12_pract\obj\Debug\net6.0\Task12_pract.AssemblyInfo.cs
+C:\Users\Jalini\Documents\Обучение\дз\lesson1_dotnet\Task12_pract\obj\Debug\net6.0\Task12_pract.csproj.CoreCompileInputs.cache
+C:\Users\Jalini\Documents\Обучение\дз\lesson1_dotnet\Task12_pract\bin\Debug\net6.0\Task12_pract.exe
+C:\Users\Jalini\Documents\Обучение\дз\lesson1_dotnet\Task12_pract\bin\Debug\net6.0\Task12_pract.deps.json
+C:\Users\Jalini\Documents\Обучение\дз\lesson1_dotnet\Task12_pract\bin\Debug\net6.0\Task12_pract.runtimeconfig.json
+C:\Users\Jalini\Documents\Обучение\дз\lesson1_dotnet\Task12_pract\bin\Debug\net6.0\Task12_pract.dll
+C:\Users\Jalini\Documents\Обучение\дз\lesson1_dotnet\Task12_pract\bin\Debug\net6.0\Task12_pract.pdb
+C:\Users\Jalini\Documents\Обучение\дз\lesson1_dotnet\Task12_pract\obj\Debug\net6.0\Task12_pract.dll
+C:\Users\Jalini\Documents\Обучение\дз\lesson1_dotnet\Task12_pract\obj\Debug\net6.0\refint\Task12_pract.dll
+C:\Users\Jalini\Documents\Обучение\дз\lesson1_dotnet\Task12_pract\obj\Debug\net6.0\Task12_pract.pdb
+C:\Users\Jalini\Documents\Обучение\дз\lesson1_dotnet\Task12_pract\obj\Debug\net6.0\Task12_pract.genruntimeconfig.cache
+C:\Users\Jalini\Documents\Обучение\дз\lesson1_dotnet\Task12_pract\obj\Debug\net6.0\ref\Task12_pract.dll
